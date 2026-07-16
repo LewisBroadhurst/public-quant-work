@@ -1,0 +1,9 @@
+{
+    "trade_risk": 10,
+    "pairs": {
+        "EUR_USD": {},
+        "GBP_USD": {},
+        "EUR_CHF": {},
+        "USD_CHF": {}
+    }
+}
